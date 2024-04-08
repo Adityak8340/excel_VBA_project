@@ -28,7 +28,7 @@ But wait, there's more! 🎉 Dive into a treasure trove of additional Excel tool
 
 Ready to embark on your Excel journey? Here's how to get started:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/Adityak8340/XL.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/Adityak8340/excel_VBA_project.git`.
 
 2. **Open Excel Workbook**: Fire up the Excel workbook included in the repository and prepare to be amazed by its capabilities. 🚀
 
