@@ -36,14 +36,3 @@ Ready to embark on your Excel journey? Here's how to get started:
 
 4. **Customize and Explore**: Let your creativity run wild! 🌟 Customize the macros, tweak the VBA code, and explore the plethora of Excel tools at your disposal.
 
-## 🤝 Contributing
-
-We welcome contributions of all shapes and sizes! 🎁 Whether it's bug fixes, new features, or creative ideas, your input is invaluable. 💬 Feel free to open an issue or submit a pull request – together, we can make Excel dreams a reality!
-
-## 🙏 Acknowledgements
-
-A heartfelt thank you to all our contributors! 🙌 Your passion and dedication have helped shape this project into what it is today. 🌟
-
----
-
-🚀 Ready to revolutionize your Excel experience? Let's get started! 💼
